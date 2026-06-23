@@ -15,4 +15,11 @@
   --size-dialog: clamp(341px, calc(341px + (12 * (100vw - 375px)) / 1065), 353px);
   --size-close: clamp(261px, calc(261px + (32 * (100vw - 375px)) / 1065), 293px);
   --shadow: -1px 0 #FFFFFF, 0 1px #FFFFFF, 1px 0 #FFFFFF, 0 -1px #FFFFFF;
+  --accent-color:#000000;
+  --color-text:white;
+  --contour-color:black;
+  --animation-fill-color:red;
+  --invisible:transparent;
+  --image-size:clamp(371px, calc(371px + (325 * (100vw - 375px)) / 1065), 696px);
 }
+
